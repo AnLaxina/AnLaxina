@@ -7,9 +7,9 @@ Third-Year Computer Science Student @ UBC
 5 years ago I started my programming journey with Java. I then ventured onto other programming languages such as Python and C#. I have recently learned database systems such as MySQL and SQL Server as well as some game development on my spare time!
 
 * 🌍  I'm based in Vancouver, BC
-* 🖥️  See my portfolio at [anlaxina.com \[WIP\]](http://anlaxina.com)
-* 🚀  I'm currently working on [My Web Portfolio](http://www.anlaxina.com)
-* 🧠  I'm learning HTML & CSS at the moment!
+* 🖥️  See my portfolio at [anlaxina.com](http://anlaxina.com)
+* 🚀  I'm currently working on a YouTube video downloader written in Python!
+* 🧠  I'm learning JavaScript at the moment!
 * 🤝  I'm open to collaborating on any interesting projects that involve Java, C#, or Python. Or any game development framework!
 * ⚡  I'm trying to get into music composition. But it's so difficult!
 
